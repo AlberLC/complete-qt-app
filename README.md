@@ -1,5 +1,5 @@
 # Qt app example
-A desktop cross-platform GUI application example.
+A desktop cross-platform GUI application.
 
 
 ## Built with
