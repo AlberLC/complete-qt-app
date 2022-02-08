@@ -1,4 +1,4 @@
-# Qt app
+# Complete Qt app
 A desktop cross-platform GUI application.
 
 
